@@ -1,5 +1,7 @@
 # louisbread
 
+![resultat_1][resultat_1]
+
 ## Foreword
 
 Bread is science, not shit. Making bread is not something you can improvise, precision is required.
@@ -9,8 +11,6 @@ Also, making bread takes time. I've tried many recipes found on internet promisi
 A perfect bread should be crispy outside and airy inside. It must be perfectly salted (so you don't perceive it) and must not taste baker's yeast.
 
 The thing is, my brother spent a lot of time trying to find how to cook the same baguette you buy at the bakery. Actually he had never shared his recipe up to this day. But during the covid19 lockdown, he got pity of me and his son Louis sent me the recipe as a video tutorial, this was cute and now I'm sharing it to you.
-
-![resultat_1][resultat_1]
 
 ## What you need
 
