@@ -1,23 +1,23 @@
 # louisbread
 
+## Foreword
+
+Bread is science, not shit. Making bread is not something you can improvise, precision is required.
+
+Also, making bread takes time. I've tried many recipes found on internet promising one baguette in 1 hour: it's just one hour wasted for an unsatisfiying result.
+
+A perfect bread should be crispy outside and airy inside. It must be perfectly salted (so you don't perceive it) and must not taste baker's yeast.
+
+The thing is, my brother spent a lot of time trying to find how to cook the same baguette you buy at the bakery. Actually he had never shared his recipe up to this day. But during the covid19 lockdown, he got pity of me and his son Louis sent me the recipe as a video tutorial, this was cute and now I'm sharing it to you.
+
 ![resultat_1][resultat_1]
-
-## Forword
-
-Bread is science. Not shit, making bread is not something you can improvise, precision is required.
-
-Also bread is time. I've tried many recipes found on internet promising one baguette in 1 hour: it's just one hour wasted for an unsatisfiying result.
-
-A perfect bread should be crispy outside and airy inside, it must be perfectly salted (so you don't perceive it) and must not taste baker's yeast.
-
-Thing is my brother spent much time trying to find how to cook the same baguette you buy at the bakery. Actually he did not share his recipe until now, but during covid19 confinement, he got pity of me and his son Louis sent me the recipe as video tutorial, this was cute and now I'm sharing it to you.
 
 ## What you need
 
-* One kitchen scale (0.1g precision required)
+* A kitchen scale (0.1g precision required)
 * Oven, capable to heat up to 240 deg celsius
 * One perforated oven plate
-* Clean hands and dusted with flour
+* Clean hands dusted with flour
 
 | Ingredients |
 | --- |
@@ -27,11 +27,11 @@ Thing is my brother spent much time trying to find how to cook the same baguette
 
 ## Steps
 
-To have bread at lunch time, begin the evening before.
+For bread to be ready at lunch time, begin the evening before.
 
 ### 1. La poolish
 
-In a "cul de poule" (literaly "chicken's ass" but a mixing bowl is fine):
+In a "cul de poule" (literally "chicken's ass", this is how we call fancy mixing bowls in French):
 
 * Add 160g of ambient water
 * Add 3g of baker's yeast
@@ -44,14 +44,14 @@ In a "cul de poule" (literaly "chicken's ass" but a mixing bowl is fine):
 
 ![poolish_2][poolish_2]
 
-* Cover it efficiently with platic film
+* Cover it with platic film (you can put several layers for a more efficient cover)
 * Keep it all night in a fresh place, in a cave or a garage or in the fridge if you don't have choice
 
 ![poolish_3][poolish_3]
 
-### 2. Le pétrissage
+### 2. Le pétrissage (aka kneading)
 
-If you want bread at lunchtime, begin around 8/9am, otherwise you can also start during the afternoon.
+If you want bread at lunchtime, begin around 8/9am.
 
 ![petrissage_1][petrissage_1]
 
@@ -62,11 +62,11 @@ If you want bread at lunchtime, begin around 8/9am, otherwise you can also start
 
 ![petrissage_2][petrissage_2]
 
-* Knead the sticky dough during 10 mn (if you have a Thermomix: 12mn / 37 deg / Mess mode)
+* Knead the sticky dough during 10 mins (if you have a Thermomix: 12mn / 37 deg / Mess mode)
 
 ![petrissage_4][petrissage_3]
 
-* Pour the dough on a wood plate, cover it under a bell
+* Pour the dough on a wooden plate, cover it under a bell
 
 ![petrissage_5][petrissage_4]
 ![petrissage_6][petrissage_5]
@@ -84,14 +84,14 @@ If you want bread at lunchtime, begin around 8/9am, otherwise you can also start
 
 ### 4. Le faconnage
 
-* Oil a bit your oven plate, then bread will not stick to it
+* Slightly oil your oven plate so that the bread does not stick to it
 
 * For a baguette:
 
     * Take a piece of dough
-    * Spread it with your finger to have a rectangle
-    * Fold it in its lenght
-    * Lightly tap to seal the dough
+    * Spread it with your finger to make a rectangle
+    * Fold it along its length
+    * Slightly tap to seal the dough
     * Roll the dough
     * Put it on the oven plate
 
@@ -100,10 +100,10 @@ If you want bread at lunchtime, begin around 8/9am, otherwise you can also start
 * For a miche:
 
     * Take a piece of dough
-    * Spread it with your finger to have a rectangle
-    * Fold it in its lenght
-    * Fold it in its width
-    * Lightly tap to seal the dough
+    * Spread it with your finger to make a rectangle
+    * Fold it along its length
+    * Fold it along its width
+    * Slightly tap to seal the dough
     * Put it on the oven plate
 
 ![faconnage_4][faconnage_4]
@@ -114,12 +114,12 @@ If you want bread at lunchtime, begin around 8/9am, otherwise you can also start
 
 ### 5. La cuisson
 
-* Warm up your oven to 240 deg celsius, put a mug of water inside to humidify the air
+* Warm up your hoven to 240 celsius, pour a mug of water inside to humidify the air
 * Brush dough with water or use a water spray
 
 ![cuisson_1][cuisson_1]
 
-* Incise doughs with a sharped knife, to form "la grigne"
+* Incise the dough with a sharped knife, to form "la grigne"
 
 ![cuisson_2][cuisson_2]
 
@@ -128,11 +128,11 @@ If you want bread at lunchtime, begin around 8/9am, otherwise you can also start
 ![cuisson_3][cuisson_3]
 
 * Put the plate in the oven
-* Throw away a cup of water inside the oven before closing it (actually my favorite part of this recipe), this will bring much humidity at once
+* Throw away a cup of water inside the hoven before closing it (this is actually my favorite part of this recipe), this will bring much humidity at once
 
 ![cuisson_4][cuisson_4]
 
-* Cook it 20 to 30 mn, it's ready when the crust looks perfect to you
+* Bake for 20 to 30 mins, it's ready when the crust looks perfect to you
 
 ![resultat_2][resultat_2]
 
