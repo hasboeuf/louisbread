@@ -4,7 +4,7 @@
 
 ## Foreword
 
-Bread is science, not shit. Making bread is not something you can improvise, precision is required.
+Bread is science. Making bread is not something you can improvise, precision is required.
 
 Also, making bread takes time. I've tried many recipes found on internet promising one baguette in 1 hour: it's just one hour wasted for an unsatisfiying result.
 
@@ -114,7 +114,7 @@ If you want bread at lunchtime, begin around 8/9am.
 
 ### 5. La cuisson
 
-* Warm up your hoven to 240 celsius, pour a mug of water inside to humidify the air
+* Warm up your oven to 240 celsius, put a mug full of water inside to humidify the air
 * Brush dough with water or use a water spray
 
 ![cuisson_1][cuisson_1]
@@ -128,7 +128,7 @@ If you want bread at lunchtime, begin around 8/9am.
 ![cuisson_3][cuisson_3]
 
 * Put the plate in the oven
-* Throw away a cup of water inside the hoven before closing it (this is actually my favorite part of this recipe), this will bring much humidity at once
+* Throw away a cup of water inside the oven before closing it (this is actually my favorite part of this recipe), this will bring much humidity at once
 
 ![cuisson_4][cuisson_4]
 
@@ -172,7 +172,7 @@ Pull requests welcomed!
 | Brush baguettes with water |
 | Incise baguettes |
 | Sprinkle flour |
-| Put it in the over + throw water inside |
+| Put it in the oven + throw water inside |
 | Wait at least 20mn |
 
 [poolish_1]: images/A_1_min.jpg
