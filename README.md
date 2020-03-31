@@ -1,6 +1,6 @@
 # louisbread
 
-![resultat_1][resultat_1]
+![resultat_1][resultat_3]
 
 ## Foreword
 
@@ -136,7 +136,7 @@ If you want bread at lunchtime, begin around 8/9am.
 
 ![resultat_2][resultat_2]
 
-_Bread crumbs is not as airy as it should on this picture (#fail)._
+_Bread crumbs is not as airy as it should this time (#fail)._
 
 ## Side notes
 
@@ -194,3 +194,4 @@ Pull requests welcomed!
 [cuisson_4]: images/D_4.gif
 [resultat_1]: images/E_1_min.jpg
 [resultat_2]: images/E_2_min.jpg
+[resultat_3]: images/E_3_min.jpg
