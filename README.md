@@ -1,6 +1,6 @@
 # louisbread
 
-![resultat_1][resultat_3]
+![resultat_4][resultat_4]
 
 ## Foreword
 
@@ -62,7 +62,8 @@ If you want bread at lunchtime, begin around 8/9am.
 
 ![petrissage_2][petrissage_2]
 
-* Knead the sticky dough during 10 mins (if you have a Thermomix: 12mn / 37 deg / Mess mode)
+* Knead the sticky dough for 10 mins (if you have a Thermomix: 12mn / 37 deg / Mess mode). The dough is sticky because it contains quite a bit of water. This is expected, as baker's yeast microorganisms, which make for an airy bread, need water to develop.
+If you are kneading by hand, I recommend oiling your hand and folding dough on itself for 10 mins.
 
 ![petrissage_4][petrissage_3]
 
@@ -75,7 +76,7 @@ If you want bread at lunchtime, begin around 8/9am.
 
 ### 3. La détente
 
-* Split the dough into n pieces (6 pieces works well)
+* Split the dough into n pieces (6 pieces works well for small baguettes, you can also split into 2 pieces for 2 normal sized baguettes)
 
 ![faconnage_1][faconnage_1]
 ![faconnage_2][faconnage_2]
@@ -119,11 +120,11 @@ If you want bread at lunchtime, begin around 8/9am.
 
 ![cuisson_1][cuisson_1]
 
-* Incise the dough with a sharped knife, to form "la grigne"
+* Incise the dough with a sharped knife, to form "la grigne". Feel free to be creative
 
 ![cuisson_2][cuisson_2]
 
-* Sprinkle flour
+* Sprinkle flour (unlike in this GIF, use a flour sieve for a better-looking result)
 
 ![cuisson_3][cuisson_3]
 
@@ -132,11 +133,15 @@ If you want bread at lunchtime, begin around 8/9am.
 
 ![cuisson_4][cuisson_4]
 
-* Bake for 20 to 30 mins, it's ready when the crust looks perfect to you
+* Bake for at least 18 mins. The bread is ready whenever the crust looks good to you
 
 ![resultat_2][resultat_2]
 
 _Bread crumbs is not as airy as it should this time (#fail)._
+
+![resultat_4][resultat_4]
+
+_Two normal sized baguettes_
 
 ## Side notes
 
@@ -195,3 +200,4 @@ Pull requests welcomed!
 [resultat_1]: images/E_1_min.jpg
 [resultat_2]: images/E_2_min.jpg
 [resultat_3]: images/E_3_min.jpg
+[resultat_4]: images/E_4_min.jpg
