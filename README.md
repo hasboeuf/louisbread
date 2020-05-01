@@ -135,6 +135,8 @@ If you are kneading by hand, I recommend oiling your hand and folding dough on i
 
 * Bake for at least 18 mins. The bread is ready whenever the crust looks good to you
 
+![cuisson_5][cuisson_5]
+
 ![resultat_2][resultat_2]
 
 _Bread crumbs is not as airy as it should this time (#fail)._
@@ -197,6 +199,7 @@ Pull requests welcomed!
 [cuisson_2]: images/D_2.gif
 [cuisson_3]: images/D_3.gif
 [cuisson_4]: images/D_4.gif
+[cuisson_5]: images/D_5.gif
 [resultat_1]: images/E_1_min.jpg
 [resultat_2]: images/E_2_min.jpg
 [resultat_3]: images/E_3_min.jpg
